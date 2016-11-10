@@ -8,14 +8,14 @@
     <svg id="game-board" width="80%" viewBox="0 0 300 300">
       <!-- Create all the shapes for your game board here! -->
       <rect  x="25"  y="0"  width="75" height="75" fill="red"/>
-          <rect  x="110"  y="0"  width="75" height="75" fill="red"/>
-          <rect  x="195"  y="0"  width="75" height="75" fill="red"/>
-          <rect  x="25"  y="85"  width="75" height="75" fill="red"/>
-          <rect  x="110"  y="85"  width="75" height="75" fill="red"/>
-          <rect  x="195"  y="85"  width="75" height="75" fill="red"/>
-          <rect  x="25"  y="170"  width="75" height="75" fill="red"/>
-          <rect  x="110"  y="170"  width="75" height="75" fill="red"/>
-          <rect  x="195"  y="170"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="110"  y="0"  width="75" height="75" fill="red"/>
+          <rect onclick="something"  x="195"  y="0"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="25"  y="85"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="110"  y="85"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="195"  y="85"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="25"  y="170"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="110"  y="170"  width="75" height="75" fill="red"/>
+          <rect onclick="something" x="195"  y="170"  width="75" height="75" fill="red"/>
 
     </svg>
 
